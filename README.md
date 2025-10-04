@@ -51,7 +51,7 @@ In this stage, we prepared the dataset for sentiment analysis by:
 - Handling missing values and duplicates  
 - Vectorizing text using **TF-IDF**, converting raw text into numerical format for model training
 
-- 📸 *![Bannière aviation](images/IMG4.png)*
+- 📸 *![Bannière aviation](images/IMG2.png)*
   
 
 **Summary:**  
